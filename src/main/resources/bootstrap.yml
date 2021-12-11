@@ -1,0 +1,6 @@
+encrypt:
+  key-store:
+    alias: reminderkey
+    location: classpath:/keystore.jks
+    password: l3tm31n
+    secret: l3tm31n
